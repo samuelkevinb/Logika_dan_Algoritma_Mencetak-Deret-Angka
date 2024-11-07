@@ -1,0 +1,6 @@
+algoritmanya : 
+1. Buat fungsi rekursif bernama cetak_deret yang menerima dua parameter: angka (angka yang akan dicetak) dan count (jumlah angka yang sudah dicetak sejauh ini).
+2. Jika count lebih dari 100, hentikan rekursi.
+3. Jika count belum mencapai 100:
+- Cetak angka saat ini (angka).
+- Panggil kembali fungsi cetak_deret, menambahkan 2 pada angka (untuk menghasilkan angka ganjil berikutnya) dan menambahkan 1 pada count.
